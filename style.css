@@ -1,0 +1,10 @@
+.b{
+    font-weight: bold;
+}
+.ho:hover{
+    color: white;
+}
+.ho{
+    transition: 0.5s;
+}
+
